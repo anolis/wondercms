@@ -14,7 +14,7 @@ WonderCMS is a simple, secure flat file CMS (Content Management System).
 - that's all folks!
 
 ### Installation
-- Download the [latest version](https://github.com/1Seann/wondercms/archive/master.zip)
+- Download the [latest version](https://github.com/anolis/wondercms/archive/master.zip)
 - Unpack the archive and upload to your hosting provider
 - Navigate to the directory and login with the password "admin"
 - Start experimenting!
